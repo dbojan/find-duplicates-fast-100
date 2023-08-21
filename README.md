@@ -11,7 +11,7 @@ move mouse over 'Downloads' and click on button under 'Download for Windows'
 Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or windows explorer.)
 
 ## installation:
--installation of program: right click on the link [here](https://github.com/dbojan/find-duplicates-fast-100/raw/main/find_duplicates_fast_100_python.zip)
+-installation of program: right click on the link [here](https://github.com/dbojan/find-duplicates-fast-100/raw/main/find_duplicates_fast_100_python.zip), select "Save Link As"
 -unzip somewhere
 
 ## usage:
