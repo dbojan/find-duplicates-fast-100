@@ -4,7 +4,7 @@ superfast duplicate finder in python, based on stack overflow post from Todor Mi
 
 https://stackoverflow.com/questions/748675/finding-duplicate-files-and-removing-them
 <code> <pre> 
-## 2023-08-21-1
+## 2024-02-04-1
 
 -note: you must have python installed on your pc.
 (If you don't have it installed, go to https://www.python.org/, 
