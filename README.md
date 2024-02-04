@@ -27,6 +27,7 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
 
 -changes in 2024-02-04-1:
  added 'chcp 65001>Nul' to the bat file to display utf8 encoded filenames in console
+ changed encoding for files writen from python to 'utf-8'
  added space between file name and message 'filename still exists'
  changed name of a 'delete duplicates bat' file
 
