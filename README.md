@@ -20,7 +20,7 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
 
 -wait for the result.
 
--'folder to search for duplicates-delete.bat' will be created. if you click on it, it will delete duplicates.
+-'duplicates-move.bat' will be created. if you click on it, it will move duplicates to 'copies' folder.
 
 -no warranty of any kind given.
 
