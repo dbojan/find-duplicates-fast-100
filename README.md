@@ -4,7 +4,7 @@ superfast duplicate finder in python, based on stack overflow post from Todor Mi
 
 https://stackoverflow.com/questions/748675/finding-duplicate-files-and-removing-them
 <code> <pre> 
-## 2024-08-30-1
+2025-08-03-1
 
 -note: you must have python installed on your pc.
 (If you don't have it installed, go to https://www.python.org/, 
@@ -25,6 +25,11 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
 -no warranty of any kind given.
 
 
+-2025-08-03-1  
+ renamed concurrent file to csv 
+ set ; as separator  
+ added html export
+
 -changes in 2020-08-30-1
  replaced delete with move, so file will be moved to folder 'copies', instead of deleted.
 
@@ -35,4 +40,5 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
  changed name of a 'delete duplicates bat' file
 
 -changes in 2023-08-21-1:
+
  small changes in readme.txt
