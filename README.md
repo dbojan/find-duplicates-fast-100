@@ -13,7 +13,7 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
 
 ## installation:
 
--installation of program: right click on the link [here](https://github.com/dbojan/find-duplicates-fast-100/raw/main/find_duplicates_fast_100_python.zip), select "Save Link As"  
+-installation of program: right click on the link [here](https://raw.githubusercontent.com/dbojan/find-duplicates-fast-100/refs/heads/main/find_duplicates_fast_100.zip), select "Save Link As"  
 -uncompress somewhere  
 
 ## usage:
@@ -43,4 +43,5 @@ Save pythonxx.exe somewhere, and double click it to install it. Restart pc, or w
 
 -changes in 2023-08-21-1:  
  small changes in readme.txt  
+
 
